@@ -1,1 +1,1 @@
-SELECT * FROM deposits;
+SELECT * FROM deposits
