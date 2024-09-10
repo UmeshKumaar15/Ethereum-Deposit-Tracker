@@ -15,9 +15,9 @@ The Ethereum Deposit Tracker monitors and records Ethereum deposits on the Beaco
 
 - Tracks Ethereum deposits on the Beacon Deposit Contract.
 - Stores deposit data in a PostgreSQL database.
-- Uses proper logging of the API status and write operations in database
+- Uses proper logging of the API status and write operations in the database.
 - Sends Telegram alerts about new deposits.
-- Configures a Grafana dashboard to display deposit data.
+- Configures a Grafana dashboard to display deposit volume graphs, fee statistics, and latest deposit data.
   
 
 ## File Structure
