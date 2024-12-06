@@ -1,7 +1,5 @@
 # Ethereum Deposit Tracker
 
-### Luganodes SDE Task - Umesh Kumaar S | 21BCE0493
-
 ## Project Overview
 
 The Ethereum Deposit Tracker monitors and records Ethereum deposits on the Beacon Deposit Contract. It tracks deposits, stores data in a PostgreSQL database, sends alerts via Telegram, and configures Grafana dashboards for visualizing the data.
